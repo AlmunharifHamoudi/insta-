@@ -1,0 +1,5 @@
+Topython
+curl2pyreqs
+PySocks
+requests
+socks
